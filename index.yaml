@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  pmtrenter:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-07T07:19:10.337749975Z"
+    dependencies:
+    - name: pmt-multikb
+      repository: https://raw.githubusercontent.com/suba28s/multikb/master
+      version: 0.1.0
+    - name: pmt-kb
+      repository: https://raw.githubusercontent.com/suba28s/pmt-kb/master
+      version: 0.1.0
+    - name: renter
+      repository: https://raw.githubusercontent.com/suba28s/raas-web/master
+      version: 0.1.0
+    - name: commonsvc
+      repository: https://raw.githubusercontent.com/suba28s/authentication/master
+      version: 0.1.0
+    description: A Helm chart for Kubernetes
+    digest: e99649780a953e9141d730a2f4966aab582fdc31fe1e562d7d8a9c17162fd8d9
+    name: pmtrenter
+    type: application
+    urls:
+    - pmtrenter-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-07T07:19:10.328070309Z"
