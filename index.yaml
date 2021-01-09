@@ -3,7 +3,7 @@ entries:
   pmtrenter:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-09T06:51:18.524334624Z"
+    created: "2021-01-09T07:10:23.17855638Z"
     dependencies:
     - name: pmt-multikb
       repository: https://raw.githubusercontent.com/suba28s/multikb/master
@@ -18,10 +18,10 @@ entries:
       repository: https://raw.githubusercontent.com/suba28s/authentication/master
       version: 0.1.0
     description: A Helm chart for Kubernetes
-    digest: e7d036f80ed6c25682cbf99dd43c5b6c7f51e0e2e036dcfe70e1d63c0b6f0004
+    digest: bc4e9dd412bc6d8effd2d76509c52d784b2da56afc3a2aa4013721a7ee969b32
     name: pmtrenter
     type: application
     urls:
     - pmtrenter-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-09T06:51:18.515379119Z"
+generated: "2021-01-09T07:10:23.169011004Z"
